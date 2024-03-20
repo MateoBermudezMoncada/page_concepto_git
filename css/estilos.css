@@ -1,0 +1,45 @@
+header{
+  text-align: center;
+  font-size: 25px;
+  color: #3c493f;
+}
+nav{
+  width: 15%;
+  float: left;
+}
+nav a{
+  background-color: #3c493f;
+  border-radius: 10px 0 10px 0;
+  color: white;
+  margin: 10px;
+  padding: 10px;
+  text-decoration: none;
+  display: block;
+}
+
+section{
+  float: right;
+  width: 75%;
+  color: black;
+  border-radius: 8px;
+  box-shadow: 4px 0 4px #3c493f ;
+  margin-bottom: 15px;
+  padding: 15px;
+}
+footer{
+  text-decoration: none;
+  float: left;
+}
+
+.section1 {
+  background-color: #b3bfb8
+}
+.section2 {
+  background-color: #b3bfb8
+}
+.section3 {
+  background-color: #b3bfb8
+}
+body{
+  background-color: #f0f7f4;
+}
